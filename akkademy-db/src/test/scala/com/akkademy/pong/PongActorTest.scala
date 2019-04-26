@@ -49,6 +49,6 @@ class PongActorTest extends FunSpecLike with Matchers {
       }
     }
 
-    
+
   }
 }
